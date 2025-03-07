@@ -1,0 +1,8 @@
+ORDINE 1 13/11/2025
+COMANDA 0
+PRIMO "pasta al pomodoro" +"formaggio" -"basilico"
+CONTORNO "insalata" -"olio" +"aceto balsamico"
+COMANDA 1
+PRIMO "pasta al pomodoro" -"pomodoro"
+SECONDO "Bistecca" +"Salsa barbecue"
+CONTORNO "insalata" -"olio"
